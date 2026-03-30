@@ -45,7 +45,6 @@ Course content and materials can be found in the following files:
 - [Installation guide](materials/installation.md)
 - [Claude skills](materials/claude.md)
 - [Exams and quizzes](materials/exams_and_quizzes.md)
-- [Bonus materials](materials/history.md)
 
 <!--
 ### Instructor Information
