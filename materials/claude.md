@@ -16,3 +16,8 @@
 
 - `name` and `description` are required (YAML format)
 
+- `references` folder should have file which is referenced in .md format
+
+- put all these in another folder (named with the same name as the skill), zip it
+
+- 📎 Upload this zipped file to _Claude_ > `capabilities` > `Skills`
