@@ -7,18 +7,22 @@
 ![Course Flyer](images/course_flyer.png)
 
 ### Course Overview
-This course introduces students to LLMs and agents.
+This course introduces students to LLMs, agents and multi-agent systems.
 
 - practical development of intelligent agents and applications powered by Large Language Models (LLMs). 
-- Students will explore how LLMs can be orchestrated and integrated with external tools, APIs, and structured memory systems to enable decision-making, problem-solving, and autonomous interaction across complex software engineering tasks. 
+- Students will explore how LLMs can be orchestrated and integrated with external tools, APIs, and structured memory systems
 
-- A variety of application areas will be considered, for example including the use of LLM-based technologies to develop assistive systems for medical diagnosis, or to streamline resource allocation, hazard analysis and decision-making in environmental management scenarios such as waste reduction. 
+- enable decision-making, problem-solving, and autonomous interaction across complex software engineering tasks. 
 
-- Core agent architectures, and retrieval-augmented agents will be examined through applied coding labs and project-based learning, and students will gain hands-on experience with agentic frameworks and prompt-augmentation techniques to build agents for a variety of purposes: searching the web, querying databases, controlling devices, composing workflows etc.
+- A variety of application areas will be considered, for example including the use of LLM-based technologies to develop assistive systems. Application areas will include medical diagnosis, or to streamline resource allocation, hazard analysis and decision-making. 
+
+- Core agent architectures, and retrieval-augmented agents will be examined through applied coding labs and project-based learning
+- students will gain hands-on experience with agentic frameworks and prompt-augmentation techniques to build agents for a variety of purposes: searching the web, querying databases, controlling devices, composing workflows etc.
 
 - Emphasis will be placed on the integration of LLMs in software engineering processes and practices, and on how to document this usage. 
 
-- Taking a systems-centric view, students will learn the importance of understanding and bounding the behaviour of LLM-based agents in the wider system context: how to evaluate and monitor agents’ behaviours, and how to use guardrails to frame their autonomy where necessary.
+- Taking a systems-centric view, students will learn the importance of understanding and bounding the behaviour of LLM-based agents in the wider system context
+- how to evaluate and monitor agents’ behaviours, and how to use guardrails to frame their autonomy where necessary.
 
 - Ethical and safety considerations, including agent alignment, hallucination control, and failure recovery, will also be addressed to ensure responsible deployment in real-world contexts.
 
@@ -33,7 +37,7 @@ This course introduces students to LLMs and agents.
 
 **Course Instructor:** Soumya Banerjee
 
-**Course Website:** [https://neelsoumya.github.io/teaching_web_development/](https://neelsoumya.github.io/teaching_web_development/)
+**Course Website:** [https://neelsoumya.github.io/teaching_llm_agents/](https://neelsoumya.github.io/teaching_lm_agents/)
 
 
 ### Course Materials

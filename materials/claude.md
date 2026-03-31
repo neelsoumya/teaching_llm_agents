@@ -11,3 +11,8 @@
 ## Skills
 
 - [Lecture deeplearning.ai on skills](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/bv2ekh/why-use-skills---part-i)
+
+- 📝 `SKILLS.md` File which should have the skills. This will have all the instructions to perform the tasks.
+
+- `name` and `description` are required (YAML format)
+
