@@ -210,3 +210,8 @@ When possible, prefer:
 - narrative synthesis over raw extraction  
 - coherent sections over fragmented notes  
 ```
+
+
+## Why use skills and how they work
+
+- [Video by Anthropic](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/eg4sac/why-use-skills---part-ii)
