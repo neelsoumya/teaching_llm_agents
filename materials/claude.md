@@ -24,6 +24,46 @@
 
 - _Concept_ 🧩🚀 Skills are an open standard and are supported in `Claude`, `Gemini`, etc.
 
+- [OpenAI SKILLS](https://developers.openai.com/cookbook/examples/skills_in_api)
+
+- You want to keep system prompts slim. Put stable procedures in skills; keep system prompts for global behavior.
+
+-  🧩🚀 Multiple agents or teams share the same _house style._ Skills are a nice `org standard library` pattern.
+
+- Also good for reproducibility
+
+- You want a reusable, independently versionable set of behaviours
+
+- Consider pinning the model and skill version together for reproducible behavior across deployments.
+
+- If the system prompt repeats the entire procedure, people will: Bypass skills and Stuff logic into tool schemas. And you lose the whole point (reusability + versioning + conditional invocation) of skills. Keep the system prompt content separate.
+
+- Your workflow is highly conditional, or branches like a complex flow chart. Example: If X → do this; else if Y → do that; plus validation + retries.
+
+- Skills are less ideal if it is a one-off task
+
+- 🧩🚀  Skills are less ideal if you need live data side effects (that would be a `tool call`)
+
+- [VibeSafe: reproducible prompts](https://github.com/lawrennd/vibesafe)
+
+- Folder Structure for a Skill
+
+A **skill** is just a folder bundle. A typical skill folder may contain:
+
+```text
+my-skill/
+├── SKILL.md              # Required: main instruction file
+├── scripts/              # Optional: code files
+│   ├── example.py
+│   └── example.js
+├── helpers/              # Optional: helper modules and dependencies
+│   └── requirements.txt
+├── assets/               # Optional: images, data files, templates
+│   ├── sample_input.json
+│   └── template.md
+└── README.md             # Optional: human-readable overview
+```
+
 - An example `SKILLS.md` file is here
 
 ```bash

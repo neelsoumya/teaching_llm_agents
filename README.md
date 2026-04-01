@@ -45,9 +45,9 @@ This course introduces students to LLMs, agents and multi-agent systems.
 Course content and materials can be found in the following files:
 
 - [Resources](materials/resources.md)
-- [Setup instructions](materials/setup.md)
 - [Installation guide](materials/installation.md)
 - [Claude skills](materials/claude.md)
+- [Tools](materials/tools.md)
 - [Exams and quizzes](materials/exams_and_quizzes.md)
 
 <!--
