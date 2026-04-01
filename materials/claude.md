@@ -30,7 +30,7 @@
 
 -  🧩🚀 Multiple agents or teams share the same _house style._ Skills are a nice `org standard library` pattern.
 
-- Also good for reproducibility
+- Also good for _reproducibility_
 
 - You want a reusable, independently versionable set of behaviours
 
