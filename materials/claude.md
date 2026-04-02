@@ -291,3 +291,21 @@ When possible, prefer:
 ```html
 /create-skill this skill will produce a grant text in latex (.latex file and .bib file) give meeting notes and outlines in .md and .txt format
 ```
+
+## Skills are composable
+
+- Skills for marketting analysis can be combined with skills for generating excel sheets
+
+- Combine them to create workflows
+
+- Predictable output from non-deterministic systems
+
+## Architecture of skills and tools
+
+- Skills
+
+- Tools
+
+- Humans as orchestrators
+
+![image](../images/skills.png)
