@@ -300,6 +300,8 @@ When possible, prefer:
 
 - Predictable output from non-deterministic systems
 
+- _Concept_: 🧩🚀 Progressive disclosure. Do not pollute the context window. Load only what is required.
+
 ## Architecture of skills and tools
 
 - Skills
