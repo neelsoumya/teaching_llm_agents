@@ -273,3 +273,21 @@ When possible, prefer:
 
 - code [`deep_research_agent_ag2.ipynb`: Deepresearch agent to re-envision AI and trip planning](https://github.com/neelsoumya/intro_to_LMMs/blob/main/deep_research_agent_ag2.ipynb)
 
+
+## Tools
+
+- Claude
+
+- Github codespaces
+
+- Google colab codespaces
+
+- VSCode/ Azure Skills
+
+- VSCode `/create-skill` command
+
+- Example (in the prompt window in `VSCode`)
+
+```html
+/create-skill this skill will produce a grant text in latex (.latex file and .bib file) give meeting notes and outlines in .md and .txt format
+```
