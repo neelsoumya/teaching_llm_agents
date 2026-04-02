@@ -266,4 +266,4 @@ When possible, prefer:
 
 - 🤔❓ Verifiability, how to prove correctness
 
-- 🤔❓ Trust, fairness. Something like model cards?
+- 🤔❓ Trust, fairness. Something like model cards or nutrition labels?
