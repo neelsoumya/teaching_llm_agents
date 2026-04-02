@@ -258,12 +258,18 @@ When possible, prefer:
 
 - Model Context Protocol (MCP)
 
-- [CMBAgent](https://github.com/CMBAgents/cmbagent)
-
-- [AG2](https://github.com/ag2ai/ag2)
-
-- code [`deep_research_agent_ag2.ipynb`: Deepresearch agent to re-envision AI and trip planning](https://github.com/neelsoumya/intro_to_LMMs/blob/main/deep_research_agent_ag2.ipynb)
 
 - 🤔❓ Verifiability, how to prove correctness
 
 - 🤔❓ Trust, fairness. Something like model cards or nutrition labels?
+
+
+## 🎮 Exercise
+
+- [CMBAgent](https://github.com/CMBAgents/cmbagent)
+
+- [AG2](https://github.com/ag2ai/ag2)
+
+
+- code [`deep_research_agent_ag2.ipynb`: Deepresearch agent to re-envision AI and trip planning](https://github.com/neelsoumya/intro_to_LMMs/blob/main/deep_research_agent_ag2.ipynb)
+
