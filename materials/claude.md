@@ -276,7 +276,7 @@ When possible, prefer:
 
 ## Tools
 
-- Claude
+- Claude (in the UI click on the `+` button and add the skill you included. For example, `\academic-grant-writer`)
 
 - Github codespaces
 
