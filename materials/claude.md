@@ -311,3 +311,27 @@ When possible, prefer:
 - Humans as orchestrators
 
 ![image](../images/skills.png)
+
+
+## Agent skills in Claude
+
+- [Lecture](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/9iovmn/skills-vs-tools%2C-mcp%2C-and-subagents)
+
+
+## Skills vs. Tools
+
+ > Think of a skill as the agent’s talent and a tool as its toolbox. A skilled carpenter (the agent) knows how to build a house (skill), but they still need a hammer (tool) to drive the nails. If you give a hammer to someone who doesn't know how to build, you just end up with a very dented wall.
+
+ - In the world of agentic design, the distinction between skills and tools is essentially the difference between _brainpower_ and _equipment_. While they often work in tandem, their roles in an agent's architecture are distinct.
+
+ - The Tools are the knives, ovens, and blenders. They are available for any chef to use for a specific, simple function.
+
+- The Skills are the recipes and techniques (e.g., "how to sauté" or "how to bake a soufflé"). 
+
+- Having the oven (tool) doesn't mean you know the 10-step process of timing and temperature required to make the soufflé (skill).
+
+- Tools often fail because the agent doesn't know when or how to use them. 
+
+- Skills provide the _guardrails_ and logic to ensure tools are used correctly.
+
+![image](../images/skills_vs_tools.png)
