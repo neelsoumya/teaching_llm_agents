@@ -49,6 +49,9 @@ Course content and materials can be found in the following files:
 - [Skills](materials/claude.md)
 - [Tools](materials/tools.md)
 - [Agents](materials/agents.md)
+- [Guardrails](materials/guardrails.md)
+- [Evals](materials/evals.md)
+- [Open source models and Ollama](materials/openweight_models.md)
 - [Exams and quizzes](materials/exams_and_quizzes.md)
 
 <!--
