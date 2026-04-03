@@ -95,3 +95,9 @@ if __name__ == "__main__":
     asyncio.run(main())
 
 ```
+
+
+## Agent skills in Claude
+
+- [Lecture](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/9iovmn/skills-vs-tools%2C-mcp%2C-and-subagents)
+

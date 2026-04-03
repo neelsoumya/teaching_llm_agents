@@ -335,3 +335,60 @@ When possible, prefer:
 - Skills provide the _guardrails_ and logic to ensure tools are used correctly.
 
 ![image](../images/skills_vs_tools.png)
+
+
+## Subagents
+
+## Integrations
+
+- Github
+
+- Google Drive
+
+- Slack
+
+## Prompts
+
+- Most atomic unit
+
+## Context window
+
+- Context window as a public good
+
+## Summary of differences between agents, skills, prompts and MCP
+
+![image](../images/summary_tools_agents_mcp.png)
+
+---
+
+### **Agentic Components: At a Glance**
+
+| Component | Role | Persistence | Best Used For... |
+| :--- | :--- | :--- | :--- |
+| **Prompts** | The immediate "What" and "How." | **Ephemeral** (Single turn/session) | Providing context, specific formatting, or one-off logic. |
+| **Skills** | Procedural "How-to" knowledge. | **Persistent** (Library/Config) | Standardizing repetitive workflows (e.g., "Analyze this dataset"). |
+| **Tools** | Functional "Hands" (APIs, Code). | **External** (Built into the environment) | Interacting with the real world (e.g., searching the web, sending emails). |
+| **MCP** | The universal "Connector." | **System-Level** (Infrastructure) | Connecting an agent to diverse data sources via a standard protocol. |
+| **Sub-agents** | The "Specialists." | **Task-Based** (Duration of workflow) | Delegating complex, multi-step tasks to a focused "expert" model. |
+
+---
+
+### **Key Concepts**
+
+#### **1. The Hierarchy of Persistence**
+* **Prompts** are the most fluid. They live and die within a conversation window. If you want an agent to "remember" a behavior forever without typing it every time, you move that logic into a **Skill**.
+* **Tools** and **MCP** connections are foundational. They are configured once at the system level and remain available across all sessions, much like installing software on a computer.
+
+#### **2. The "Hand-off" Workflow**
+In a sophisticated system, the **Primary Agent** receives a **Prompt**, recognizes it doesn't have the data (via **MCP**), realizes the task is too complex for one step, and spins up a **Sub-agent**. That sub-agent uses a specific **Skill** (procedural knowledge) to execute a **Tool** (the action).
+
+#### **3. Why MCP Matters Now**
+Before the **Model Context Protocol (MCP)**, connecting an agent to a new database or service required custom "glue code" for every single tool. MCP acts like a universal USB port—it allows the agent to plug into a standardized server that can provide tools and resources regardless of the specific LLM being used.
+
+#### **4. Skills vs. Tools (The common point of confusion)**
+* **A Tool** is the *hammer*: It’s the actual code that hits an API or executes a Python script.
+* **A Skill** is the *carpentry knowledge*: It’s the set of instructions that tells the agent *when* and *how* to swing that hammer to build a specific thing.
+
+---
+
+> **Tip:** "Agentic" isn't just about the model being smart—it's about the model having the **agency** to choose between these components to solve a problem.
