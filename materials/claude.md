@@ -258,7 +258,6 @@ When possible, prefer:
 
 - Model Context Protocol (MCP)
 
-
 - 🤔❓ Verifiability, how to prove correctness
 
 - 🤔❓ Trust, fairness. Something like model cards or nutrition labels?
@@ -392,3 +391,42 @@ Before the **Model Context Protocol (MCP)**, connecting an agent to a new databa
 ---
 
 > **Tip:** "Agentic" isn't just about the model being smart—it's about the model having the **agency** to choose between these components to solve a problem.
+
+
+## 🎮🛠️ Exercise: Web Search + Summaries + Error Logging Agent
+
+- Read [advanced agents](agents_advanced.md)
+
+1. Objective
+   - Build a Claude-style agent that performs a web search, generates a short summary, and logs errors for inspection.
+
+2. Required toolchain
+   - `web_search(query: str) -> list[dict]` (title/url/snippet)
+   - `summarize_text(text: str) -> str`
+   - `log_error(error_details: str) -> str`
+
+3. Behavior pattern
+   - Ask clarifying question if input is underspecified.
+   - Pick a concise search query and call `web_search`.
+   - Find the top 3 sources; for each source:
+     - fetch body text (simulate or use real scraper)
+     - call `summarize_text`
+   - Compose a final answer with:
+     - key facts and sources
+     - “confidence level” marker
+   - On any exception or missing data, call `log_error` and continue gracefully.
+
+4. Prompt scaffold (Claude recommended)
+   - System: "You are a helpful research assistant. Use tools for facts, summarize clearly, and log any errors for auditing. Keep final answers short."
+   - User: "Find the latest techniques for improving retention in adult learning programs. Provide a summary and source links."
+
+5. Evaluation criteria
+   - correctness of output format
+   - use of tool calls and summaries
+   - presence of error log statements for simulated failures
+   - final answer clarity and citation
+
+6. Extra credit
+   - Add a retry strategy for transient `web_search` failures (exponential backoff)
+   - Add a optional `verify_with_secondary_source()` step before final answer
+
