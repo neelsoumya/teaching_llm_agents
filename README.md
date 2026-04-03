@@ -48,6 +48,7 @@ Course content and materials can be found in the following files:
 - [Installation guide](materials/installation.md)
 - [Skills](materials/claude.md)
 - [Tools](materials/tools.md)
+- [Agents](materials/agents.md)
 - [Exams and quizzes](materials/exams_and_quizzes.md)
 
 <!--
