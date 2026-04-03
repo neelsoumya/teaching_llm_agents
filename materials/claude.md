@@ -373,7 +373,7 @@ When possible, prefer:
 
 ---
 
-### **Key Concepts**
+### 🧩🚀 **Key Concepts**
 
 #### **1. The Hierarchy of Persistence**
 * **Prompts** are the most fluid. They live and die within a conversation window. If you want an agent to "remember" a behavior forever without typing it every time, you move that logic into a **Skill**.
