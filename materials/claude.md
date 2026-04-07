@@ -429,4 +429,25 @@ Before the **Model Context Protocol (MCP)**, connecting an agent to a new databa
 6. Extra credit
    - Add a retry strategy for transient `web_search` failures (exponential backoff)
    - Add a optional `verify_with_secondary_source()` step before final answer
+   - Add a `safe_query()` option for safe search
+
+
+## Pre-built skills
+
+- [Video](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/cniu9q/exploring-pre-built-skills)
+
+- Skill creator
+
+- PDF and Excel, can also call 🐍 Python programs
+
+- `scripts` folder
+
+- Example Skills in _Claude_
+
+- Use BigQuery MCP server to get data
+
+- Consistent styling and logos in skills (_assets_ folder)
+
+
+
 
