@@ -448,6 +448,12 @@ Before the **Model Context Protocol (MCP)**, connecting an agent to a new databa
 
 - Consistent styling and logos in skills (_assets_ folder)
 
+- ⚠️ Clear and concise, 500 words and use forward slash (`/`)
+
+- ⚠️ `scripts`, `references` and `assets` folders
+
+
+
 
 
 

@@ -49,10 +49,12 @@ Course content and materials can be found in the following files:
 - [Skills](materials/claude.md)
 - [Tools](materials/tools.md)
 - [Agents](materials/agents.md)
+- [MCP](materials/MCP.md)
+- [Computer use](materials/computer_use.md)
 - [Guardrails](materials/guardrails.md)
 - [Evals](materials/evals.md)
 - [Open source models and Ollama](materials/openweight_models.md)
-- [Exams and quizzes](materials/exams_and_quizzes.md)
+- [Projects, exams and quizzes](materials/exams_and_quizzes.md)
 
 <!--
 ### Instructor Information
@@ -63,12 +65,7 @@ Course content and materials can be found in the following files:
 ### Learning Objectives
 
 By the end of this course, students will be able to:
-- Create semantic, accessible HTML5 documents
-- Design responsive layouts using modern CSS3 techniques
-- Develop server-side applications with PHP
-- Implement CRUD operations with MySQL databases
-- Build secure web applications following best practices
-- Deploy and maintain web applications
+- Create multi-agent systems
 
 ### Course Structure
 

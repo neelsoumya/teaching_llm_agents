@@ -101,3 +101,7 @@ if __name__ == "__main__":
 
 - [Lecture](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/9iovmn/skills-vs-tools%2C-mcp%2C-and-subagents)
 
+
+## Multi agent systems with `Crew.ai`
+
+- [Lecture deeplearning.ai](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/wwou5/introduction?startTime=0)
