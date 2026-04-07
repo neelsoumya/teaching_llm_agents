@@ -453,6 +453,14 @@ Before the **Model Context Protocol (MCP)**, connecting an agent to a new databa
 - ⚠️ `scripts`, `references` and `assets` folders
 
 
+## Claude Code
+
+- [Lecture](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/txwyf5/creating-custom-skills)
+
+- Marketplace
+
+- [Installation of Claude code](https://code.claude.com/docs/en/overview#get-started)
+
 
 
 
