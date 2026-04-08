@@ -481,3 +481,9 @@ claude
 
 - code execution sandbox + filesystem
 
+- include python code
+
+- `CLAUDE.md` has coding conventions, patterns and snippets of Python code, etc.
+
+- `/skills` command in Claude code
+
