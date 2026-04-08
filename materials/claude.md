@@ -461,7 +461,23 @@ Before the **Model Context Protocol (MCP)**, connecting an agent to a new databa
 
 - [Installation of Claude code](https://code.claude.com/docs/en/overview#get-started)
 
+- On Mac OS X and WSL (Windows Shell)
+
+```bash
+
+curl -fsSL https://claude.ai/install.sh | bash
+
+cd your-project
+claude
+
+```
+
+- [Claude code](https://code.claude.com/docs/en/how-claude-code-works)
 
 
+## Code execution
 
+- [Lecture code execution](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/3sq9za/skills-with-the-claude-api)
+
+- code execution sandbox + filesystem
 
