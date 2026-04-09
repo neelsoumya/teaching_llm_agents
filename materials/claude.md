@@ -489,4 +489,4 @@ claude
 
 - Tasks
 
-
+- `\agents` command to create agents; can use skills, Python, bash, etc.
