@@ -490,3 +490,25 @@ claude
 - Tasks
 
 - `\agents` command to create agents; can use skills, Python, bash, etc.
+
+
+## Claude Agent SDK
+
+- [Lecture video](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/rmykgh/skills-with-the-claude-agent-sdk)
+
+- create subagents, skills, filesystem handling
+
+- team sharing: connect to `Notion` using MCP Server
+
+- code
+
+```python
+options = ClaudeAgentOptions(
+   system_prompt = "You are an agent",
+   mcp_servers = {},
+   allowed_tools = ["Bash", "WebSearch"],
+   model = "sonnet"
+)
+```
+
+- Framework to build powerful agentic applications
