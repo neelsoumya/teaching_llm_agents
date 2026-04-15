@@ -51,3 +51,9 @@ def format_doc():
 - prompt templates 
 
 - `jinja`
+
+- Communication lifecycle of MCP (GET/POST/RESPONSE)
+
+- MCP Transport (stdio, HTTP)
+
+- [Basics of HTTP GET and POST](https://neelsoumya.github.io/teaching_web_development/materials/get.html)
