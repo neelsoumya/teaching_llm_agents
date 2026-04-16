@@ -57,3 +57,10 @@ def format_doc():
 - MCP Transport (stdio, HTTP)
 
 - [Basics of HTTP GET and POST](https://neelsoumya.github.io/teaching_web_development/materials/get.html)
+
+
+## Building your MCP server
+
+- [Lecture](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/dbabg/creating-an-mcp-server)
+
+- `FastMCP`
