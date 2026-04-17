@@ -10,6 +10,8 @@
 
 ## Intro
 
+![image](../images/mcp.png)
+
 - [video](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/ccsd0/why-mcp)
 
 - MCP standardizes how models connect to tools and data sources
