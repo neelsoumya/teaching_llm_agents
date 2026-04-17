@@ -198,3 +198,30 @@ print("Inspector Proxy Address that you need to specify under configuration in t
 print(os.environ.get('DLAI_LOCAL_URL').format(port=6277)[:-1])
 
 ```
+
+
+## Building your own MCP client
+
+- [Lecture](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/pnd5n/creating-an-mcp-client)
+
+- use `async` and `await`
+
+```python
+import asyncio
+import nest_asyncio
+
+nest_aynscio.apply()
+
+# code for chatbot
+async def main():
+    '''
+        Main code for chatbot
+    '''
+    chatbot = MCP_Chatbot()
+    await chatbot.connect_to_server_and_run()
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
+
+```
