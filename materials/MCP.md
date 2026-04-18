@@ -225,3 +225,9 @@ if __name__ == "__main__":
     asyncio.run(main())
 
 ```
+
+## Reference servers
+
+- Filesystem MCP server, github MCP server
+
+- `npx`
