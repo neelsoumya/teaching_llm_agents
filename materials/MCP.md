@@ -228,6 +228,6 @@ if __name__ == "__main__":
 
 ## Reference servers
 
-- Filesystem MCP server, github MCP server
+- Filesystem MCP server, _github_ MCP server
 
-- `npx`
+- Use `npx` to run server
