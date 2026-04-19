@@ -231,3 +231,29 @@ if __name__ == "__main__":
 - Filesystem MCP server, _github_ MCP server
 
 - Use `npx` to run server
+
+
+## Adding prompt and resource features
+
+- [Lecture](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/f2uk7/adding-prompt-and-resource-features)
+
+-  ⚠️ _Resources_ are read-only data
+
+```python
+@mcp.resource
+def ret_resource():
+    
+```
+
+-  Prompt templates 
+
+```python
+@mcp.prompt
+def ret_prompt():
+
+```
+
+-  ⚠️ _Sessions_ 
+
+
+## Deploying Claude server 
