@@ -256,4 +256,12 @@ def ret_prompt():
 -  ⚠️ _Sessions_ 
 
 
-## Deploying Claude server 
+## Deploying server for Claude desktop 
+
+- [Lecture from deeplearning.ai](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/l8ms0/configuring-servers-for-claude-desktop)
+
+
+## Remote MCP servers
+
+- [Lecture](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/khdoe/creating-and-deploying-remote-servers)
+
