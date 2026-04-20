@@ -265,3 +265,12 @@ def ret_prompt():
 
 - [Lecture](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/khdoe/creating-and-deploying-remote-servers)
 
+- [`render`](render.com)
+
+- 🧩 🚀 deploy MCP Server
+
+- Deploy with _Session_ ID
+
+- 🧩 🚀 _Authentication_
+
+- 🧩 🚀 All agents speak same language (`MCP`)
