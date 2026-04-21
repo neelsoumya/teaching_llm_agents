@@ -54,6 +54,7 @@ Course content and materials can be found in the following files:
 - [Guardrails](materials/guardrails.md)
 - [Evals](materials/evals.md)
 - [Open source models and Ollama](materials/openweight_models.md)
+- [Rapid prototyping](materials/rapid_prototyping.md)
 - [Projects, exams and quizzes](materials/exams_and_quizzes.md)
 
 <!--
@@ -69,50 +70,6 @@ By the end of this course, students will be able to:
 
 ### Course Structure
 
-#### Module 1: Web Fundamentals (Weeks 1-2)
-- How the web works (HTTP, DNS, Client-Server architecture)
-- HTML5 structure and semantics
-- Forms and input validation
-- Introduction to development tools
-
-#### Module 2: Styling with CSS (Weeks 3-4)
-- CSS selectors and specificity
-- Box model and layout techniques
-- Flexbox and Grid
-- Responsive design and media queries
-
-#### Module 3: Introduction to PHP (Weeks 5-6)
-- PHP syntax and data types
-- Control structures and functions
-- Working with forms and user input
-- Sessions and cookies
-
-#### Module 4: Database Integration (Weeks 7-8)
-- MySQL fundamentals
-- PHP and MySQL integration
-- Prepared statements and security
-- Building a CRUD application
-
-#### Module 5: Advanced Topics (Weeks 9-10)
-- Authentication and authorization
-- File uploads and handling
-- Error handling and debugging
-- Introduction to MVC pattern
-
-#### Module 6: Project & Deployment (Weeks 11-12)
-- Final project development
-- Security best practices
-- Web hosting and deployment
-- Performance optimization
-
-<!--
-### Assessment Structure
-- **Weekly Labs:** 20%
-- **Mid-term Project:** 25%
-- **Final Project:** 35%
-- **Quizzes:** 10%
-- **Participation:** 10%
--->
 
 ### Required Materials
 - [Setup instructions](materials/setup.md)
