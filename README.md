@@ -74,27 +74,9 @@ By the end of this course, students will be able to:
 ### Required Materials
 - [Setup instructions](materials/setup.md)
 - [Installation guide](materials/installation.md)
-- Text Editor (VS Code recommended)
-- XAMPP or MAMP (local development environment)
-- Modern web browser (Chrome/Firefox with DevTools)
-- Git for version control
+- Google Colab
 
-### Recommended Resources
 
-- [Dr. Chuck's PHP Course](https://www.wa4e.com/lessons): A comprehensive course on PHP programming available on YouTube.
-
-- [Dr. Chuck's Web Development Course on YouTube](https://www.youtube.com/watch?v=tuXySrvw8TE&list=PLlRFEj9H3Oj7FHbnXWviqQt0sKEK_hdKX): A playlist of free video lectures covering web programming concepts.
-
-- [W3Schools](https://www.w3schools.com): A comprehensive resource for learning web technologies including HTML, CSS, and PHP.
-
-<!--
-### Course Files
-- `/lectures` - Slide decks and lecture notes
-- `/labs` - Weekly lab exercises
-- `/projects` - Project specifications
-- `/examples` - Code examples and demos
-- `/assessments` - Quizzes and exam materials
--->
 
 ### Acknowledgements
 
