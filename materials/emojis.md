@@ -15,4 +15,6 @@
 - Examples: 📚, 📝
 - Celebrations: 🎉, 🥳
 - ⬆️📎
+- 🎥 Video
+
 
