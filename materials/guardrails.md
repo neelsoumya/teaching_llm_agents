@@ -28,6 +28,8 @@
 
 - _Output guard_ check hallucinations, sensitive topics, small finetuned language models (SLMs), pattern matching, named entity recognition, etc.
 
+- [My own guardrails project](https://github.com/neelsoumya/project_guardrails_agents)
+
 - 🎥 [Lecture](https://learn.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails/lesson/b0qtw/failure-modes-in-rag-applications)
 
 
