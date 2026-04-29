@@ -24,6 +24,10 @@
 
 - reputational risk: do not mention competitors in a good way or bad way
 
+- _Input guard_ check input (no personal information, no jailbreak, not off topic, etc.)
+
+- _Output guard_ check hallucinations, sensitive topics, small finetuned language models (SLMs), pattern matching, named entity recognition, etc.
+
 - 🎥 [Lecture](https://learn.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails/lesson/b0qtw/failure-modes-in-rag-applications)
 
 
