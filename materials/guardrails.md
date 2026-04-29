@@ -37,7 +37,7 @@
 
 - [SKILLS.md file for guardrails for Python Gen AI app](../code/guardrails/SKILL_guardrails.md)
 
-- Code
+- Code from [deeplearning.ai](https://learn.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails/lesson/b0qtw/failure-modes-in-rag-applications)
 
 ```python
 # app_with_guardrails.py
