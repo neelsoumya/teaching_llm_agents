@@ -111,11 +111,35 @@ if st.button("Submit") and user_input:
     st.write(filtered["text"])
 ```
 
-- Validator class
+## Base class
+
+- 🎥 [deeplearning.ai course](https://learn.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails/lesson/ph1aa/building-your-first-guardrail)
+
+- _Validator_ base class
 
 ```python
+@register_validator(name = 'check', data_type='string')
 class FraudDetector(Validator):
     '''
         Inherits from base class Validator
     '''
+```
+
+
+- setup a server
+
+```python
+guarded_client = OpenAI(
+    base_url="http://127.0.0.1:8000/guards/colosseum_guard_2/openai/v1/"
+)
+```
+
+- and instead of directly calling the `OpenAI` client (_client_), call this server like so:
+
+```python
+guarded_rag_chatbot2 = RAGChatWidget(
+    client=guarded_client,
+    system_message=system_message,
+    vector_db=vector_db,
+)
 ```
