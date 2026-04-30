@@ -111,3 +111,11 @@ if st.button("Submit") and user_input:
     st.write(filtered["text"])
 ```
 
+- Validator class
+
+```python
+class FraudDetector(Validator):
+    '''
+        Inherits from base class Validator
+    '''
+```
