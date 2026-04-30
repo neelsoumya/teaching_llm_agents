@@ -143,3 +143,5 @@ guarded_rag_chatbot2 = RAGChatWidget(
     vector_db=vector_db,
 )
 ```
+
+- Create a guardrails account and get an API key
