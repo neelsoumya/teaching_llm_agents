@@ -145,3 +145,10 @@ guarded_rag_chatbot2 = RAGChatWidget(
 ```
 
 - Create a guardrails account and get an API key
+
+
+## Hallucination detector
+
+- [🎥 Video](https://learn.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails/lesson/j85wm/using-hallucination-guardrail-in-a-chatbot)
+
+- 🧩 🚀 Use NLI model to check whether your response is grounded in a document/trusted source
