@@ -151,4 +151,4 @@ guarded_rag_chatbot2 = RAGChatWidget(
 
 - [🎥 Video](https://learn.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails/lesson/j85wm/using-hallucination-guardrail-in-a-chatbot)
 
-- 🧩 🚀 Use NLI (natural language inference) model to check whether your response is grounded in a document/trusted source
+- 🧩 🚀 Use a [NLI (natural language inference) model](https://medium.com/@aiforhuman/nli-natural-language-inferencing-8f231f23800e) to check whether your response is grounded in a document/trusted source
