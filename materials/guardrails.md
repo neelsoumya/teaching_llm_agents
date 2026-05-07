@@ -153,7 +153,7 @@ guarded_rag_chatbot2 = RAGChatWidget(
 
 - 🧩 🚀 Use a [NLI (natural language inference) model](https://medium.com/@aiforhuman/nli-natural-language-inferencing-8f231f23800e) to check whether your response is grounded in a document/trusted source
 
-- As an example [DeBERT model](https://huggingface.co/MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli)
+- As an example [DeBERTa model](https://huggingface.co/MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli)
 
 - Example code [from](https://huggingface.co/MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli)
 
