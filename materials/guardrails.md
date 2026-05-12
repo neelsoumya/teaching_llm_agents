@@ -176,3 +176,11 @@ label_names = ["entailment", "neutral", "contradiction"]
 prediction = {name: round(float(pred) * 100, 1) for pred, name in zip(prediction, label_names)}
 print(prediction)
 ```
+
+## Anonymization and detecting personal identifiable information (PII)
+
+- [🎥 Lecture video](https://learn.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails/lesson/wjgpn/ensuring-no-personal-identifiable-information-(pii)-is-leaked)
+
+- [Microsoft Presidio](https://github.com/microsoft/presidio)
+
+- [Code snippet to anonymize data](https://microsoft.github.io/presidio/samples/)
