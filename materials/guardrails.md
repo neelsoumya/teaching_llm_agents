@@ -183,4 +183,4 @@ print(prediction)
 
 - [Microsoft Presidio](https://github.com/microsoft/presidio)
 
-- [Code snippet to anonymize data](https://microsoft.github.io/presidio/samples/)
+- [Code snippet to anonymize data using Microsoft Presidio](https://microsoft.github.io/presidio/samples/)
