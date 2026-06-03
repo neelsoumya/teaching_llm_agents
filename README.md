@@ -53,6 +53,7 @@ Course content and materials can be found in the following files:
 - [Agents in LangGraph](materials/agents_langgraph.md)
 - [Computer use](materials/computer_use.md)
 - [Guardrails](materials/guardrails.md)
+- [Safety](materials/safety.md)
 - [Evals](materials/evals.md)
 - [Open source models and Ollama](materials/openweight_models.md)
 - [Rapid prototyping](materials/rapid_prototyping.md)
