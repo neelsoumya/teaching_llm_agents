@@ -7,3 +7,4 @@
 
 - the human _directs_ and _supervises_ the work and go back and forth and frequently supervise
 - _manage_ the context
+- for example in the context of [Math AI](https://neelsoumya.github.io/science_blog_fun/irodov_figure1.html). See examples from Knuth and Riemann hypothesis. 
