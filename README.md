@@ -50,6 +50,7 @@ Course content and materials can be found in the following files:
 - [Tools](materials/tools.md)
 - [Agents](materials/agents.md)
 - [MCP](materials/MCP.md)
+- [How to use coding agents by Andrew Ng](materials/using_coding_agents_andrewng.md)
 - [Agents in LangGraph](materials/agents_langgraph.md)
 - [Computer use](materials/computer_use.md)
 - [Guardrails](materials/guardrails.md)
