@@ -8,3 +8,7 @@
 - the human _directs_ and _supervises_ the work and go back and forth and frequently supervise
 - _manage_ the context
 - for example in the context of [Math AI](https://neelsoumya.github.io/science_blog_fun/irodov_figure1.html). See examples from Knuth and Riemann hypothesis. 
+- automated testing and evals?
+- code review by agents. update `agents.md` and `claude.md` with information on repository and assumptions
+- see [vibesafe](https://github.com/lawrennd/vibesafe)
+- manage contexts across agents across different developers 
