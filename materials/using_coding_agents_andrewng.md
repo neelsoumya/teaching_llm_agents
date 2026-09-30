@@ -12,3 +12,4 @@
 - code review by agents. update `agents.md` and `claude.md` with information on repository and assumptions
 - see [vibesafe](https://github.com/lawrennd/vibesafe)
 - manage contexts across agents across different developers 
+- [🎥 video: agentic development using NVIDIA Jetson](https://www.youtube.com/watch?v=OF_ryVZmB3w)
