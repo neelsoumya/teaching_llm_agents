@@ -13,3 +13,12 @@
 - see [vibesafe](https://github.com/lawrennd/vibesafe)
 - manage contexts across agents across different developers 
 - [🎥 video: agentic development using NVIDIA Jetson](https://www.youtube.com/watch?v=OF_ryVZmB3w)
+
+
+The key steps are:
+- Planning
+- Execution
+- Deployment and monitoring
+
+>This high-level workflow is similar to the one typically used to build software before coding agents. Now, we focus much less on code and instead focus on deciding what to build, designing the architecture, writing the spec, and verifying outputs.
+
