@@ -22,3 +22,10 @@ The key steps are:
 
 >This high-level workflow is similar to the one typically used to build software before coding agents. Now, we focus much less on code and instead focus on deciding what to build, designing the architecture, writing the spec, and verifying outputs.
 
+To use coding agents effectively in this workflow, the key skills are:
+
+- Directing the workflow
+- Enabling agent autonomy
+- Reviewing the work
+- Customizing the agent and its environment
+- Coding agent foundations
