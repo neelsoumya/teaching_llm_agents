@@ -25,19 +25,6 @@ This course introduces students to LLMs, agents and multi-agent systems.
 
 - Ethical and safety considerations, including agent alignment, hallucination control, and failure recovery, will also be addressed to ensure responsible deployment in real-world contexts.
 
-## Resources
-
-[deeplearning.ai course](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/ldn5c3/introduction)
-
-
-**Level:** Undergraduate
-**Prerequisites:** Basic programming knowledge (any language)  
-**Duration:** 12 weeks (3 hours/week lecture + 2 hours/week lab)  
-
-**Course Instructor:** Soumya Banerjee
-
-**Course Website:** [https://neelsoumya.github.io/teaching_llm_agents/](https://neelsoumya.github.io/teaching_lm_agents/)
-
 
 ### Course Materials
 
@@ -63,6 +50,12 @@ Course content and materials can be found in the following files:
 ### Instructor Information
  - [Extra information](materials/extra.md)
 -->
+
+## Resources
+
+[deeplearning.ai course](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/ldn5c3/introduction)
+
+**Course Website:** [https://neelsoumya.github.io/teaching_llm_agents/](https://neelsoumya.github.io/teaching_lm_agents/)
 
 
 ### Learning Objectives
