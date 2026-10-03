@@ -46,3 +46,4 @@ To use coding agents effectively in this workflow, the key skills are:
 ![image](images/vibe_coding_humour.jpeg)
 
 - Agentic Coding is powerful, but someone still has to clean up after the "Large Mess Maker" (LMM)! 🧹 Our specialist uses an innovative (feather duster) method to refactor chaotic spaghetti into clean, optimized output. Just another day in the Agentic Cleanup Protocol. Who needs a digital deep clean? 💻🤖
+
