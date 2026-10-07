@@ -44,7 +44,9 @@ Course content and materials can be found in the following files:
 - [Evals](materials/evals.md)
 - [Open source models and Ollama](materials/openweight_models.md)
 - [Rapid prototyping](materials/rapid_prototyping.md)
+- [Agentic hackathon](agentic.md)
 - [Projects, exams and quizzes](materials/exams_and_quizzes.md)
+
 
 <!--
 ### Instructor Information
