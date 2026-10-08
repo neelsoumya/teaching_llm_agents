@@ -39,6 +39,7 @@ Course content and materials can be found in the following files:
 - [How to use coding agents by Andrew Ng](materials/using_coding_agents_andrewng.md)
 - [Agents in LangGraph](materials/agents_langgraph.md)
 - [Computer use](materials/computer_use.md)
+- [Harness](materials/harness.md)
 - [Guardrails](materials/guardrails.md)
 - [Safety](materials/safety.md)
 - [Evals](materials/evals.md)
