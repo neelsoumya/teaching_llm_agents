@@ -2,6 +2,9 @@
 
 by Radsym
 
+
+- [LangChain academy](https://www.youtube.com/watch?v=Xe7c-7jyp28)
+
 Session 6 - "APIs to LLMs" notebook-based presentation - I go through content included in a google colab notebook shared with participants, explaining concepts and code examples as we go along. Go from a place where most learners have only interacted with LLMs via websites, to a place where they've all called a few different models successfully, and have a better understanding of what goes on behind the scenes. Information on what kinds of models are best for what tasks, what criteria are useful to judge "best". Spare time for setup - Google Colab, GitHub, distributing API keys. 
 
 [Soumya's last session 5 will inform where I start - might include a little more theory of LLMs before the API examples, tbd based on conversation with him and his opinions]
