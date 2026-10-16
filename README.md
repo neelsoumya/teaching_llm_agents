@@ -56,9 +56,14 @@ Course content and materials can be found in the following files:
 
 ## Resources
 
-[deeplearning.ai course](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/ldn5c3/introduction)
+- [deeplearning.ai course](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/ldn5c3/introduction)
 
-**Course Website:** [https://neelsoumya.github.io/teaching_llm_agents/](https://neelsoumya.github.io/teaching_lm_agents/)
+- **Course Website:** [https://neelsoumya.github.io/teaching_llm_agents/](https://neelsoumya.github.io/teaching_lm_agents/)
+
+- [Book](https://pragprog.com/titles/ubaidev/process-over-magic-beyond-vibe-coding/)
+
+- [https://pragprog.com/titles/jwpaieng/a-common-sense-guide-to-ai-engineering/](https://pragprog.com/titles/jwpaieng/a-common-sense-guide-to-ai-engineering/)
+
 
 
 ### Learning Objectives
