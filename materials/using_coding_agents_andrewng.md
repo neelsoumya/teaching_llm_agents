@@ -47,3 +47,9 @@ To use coding agents effectively in this workflow, the key skills are:
 
 - Agentic Coding is powerful, but someone still has to clean up after the "Large Mess Maker" (LMM)! 🧹 Our specialist uses an innovative (feather duster) method to refactor chaotic spaghetti into clean, optimized output. Just another day in the Agentic Cleanup Protocol. Who needs a digital deep clean? 💻🤖
 
+
+- Andrew Ng says [here](https://www.deeplearning.ai/the-batch/formal-verification-meets-unverifiable-judgement)
+
+>One interesting challenge for AI Engineers is that, as verifiable tasks get automated, the need for humans to do judgement tasks — which often requires drawing context from a bewilderingly large array of raw data and identifying the pieces that critically influence a decision — remains important. As I’ve written before, I expect people to continue to have a context advantage over LLMs on many tasks for a long time
+
+
