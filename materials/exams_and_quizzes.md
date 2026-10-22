@@ -6,7 +6,10 @@ This section outlines the structure and content of exams and quizzes that will b
 
 # Assessment
 
-Portfolio: Create and test a cross platform website with interactive elements using a scripting language. 
+- Portfolio 1: Create an agentic system for [space and orbital monitoring](https://github.com/adamcohen8/orbital-engineering-lab)
+
+
+- Portfolio 2: Create and test a cross platform website with interactive elements using a scripting language. 
 
 ## Project
 
