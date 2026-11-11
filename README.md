@@ -45,6 +45,7 @@ Course content and materials can be found in the following files:
 - [Evals](materials/evals.md)
 - [Open source models and Ollama](materials/openweight_models.md)
 - [Rapid prototyping](materials/rapid_prototyping.md)
+- [Stanford CS329Z Engineering AI agents](https://www.youtube.com/watch?v=R7UnLuGrLBk&list=PLVKEyLMx8AmU&index=4)
 - [Agentic hackathon](materials/agentic.md)
 - [Projects, exams and quizzes](materials/exams_and_quizzes.md)
 
